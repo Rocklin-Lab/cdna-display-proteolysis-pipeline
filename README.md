@@ -21,9 +21,9 @@ URL:
 	STEP1_out_protease_concentration_chymotrypsin
 
 ### Pipeline_figure_model
-	  Burial_side_chain_contact_Fig3_Fig6.ipynb
-	  Additive_model_Fig4.ipynb
-	  Classification_model_Fig5.ipynb
+	Burial_side_chain_contact_Fig3_Fig6.ipynb
+	Additive_model_Fig4.ipynb
+	Classification_model_Fig5.ipynb
 	  
 ### Pipeline_qPCR_data: a pipeline to analyze qPCR data (related to Fig. S1)
 	Raw_qPCR_data_FigS1.csv
@@ -55,11 +55,11 @@ URL:
 	Heat_maps_double_DMS.pdf
 
 ### Data_tables_for_figs.zip
-	  dG_extdG_data_Fig1.csv
-	  dG_site_feature_Fig3.csv
-	  dG_for_double_mutants_Fig4.csv
-	  dG_non_redundant_natural_Fig5.csv
-	  dG_GEMME_non_redundant_natural_Fig6.csv
+	dG_extdG_data_Fig1.csv
+	dG_site_feature_Fig3.csv
+	dG_for_double_mutants_Fig4.csv
+	dG_non_redundant_natural_Fig5.csv
+	dG_GEMME_non_redundant_natural_Fig6.csv
 
 ### Pipeline_qPCR_data.zip
 	Raw_qPCR_data_FigS1.csv
@@ -85,9 +85,9 @@ URL:
 	STEP3_unfolded_model_params
 
 ### Pipeline_figure_model.zip
-	  Burial_side_chain_contact_Fig3_Fig6.ipynb
-	  Additive_model_Fig4.ipynb
-	  Classification_model_Fig5.ipynb
+	Burial_side_chain_contact_Fig3_Fig6.ipynb
+	Additive_model_Fig4.ipynb
+	Classification_model_Fig5.ipynb
 
 ### AlphaFold_model_PDBs.zip
 

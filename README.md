@@ -1,6 +1,10 @@
 # cdna-display-proteolysis-pipeline
-This repo includes only scripts related to a manuscript titled "Mega-scale experimental analysis of protein folding stability in biology and protein design"
-URL: 
+
+## Description
+- This repo includes only scripts related to a manuscript titled "Mega-scale experimental analysis of protein folding stability in biology and protein design" 
+- URL: 
+- You can find the following all tables required for the pipelines above here
+- URL:
 
 ## Scripts on github
 ### Pipeline_K50_dG (a main pipeline to generate K50/dG [folding stability] from NGS data)
@@ -31,8 +35,6 @@ URL:
 
 
 ## Files on Zenodo
-You can find the following all tables required for the pipelines above here
-URL:
 
 ### Raw_NGS_count_tables.zip
 	NGS_count_lib1.csv

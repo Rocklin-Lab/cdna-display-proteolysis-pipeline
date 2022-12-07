@@ -2,7 +2,7 @@
 
 ## Description
 - This repo includes only scripts related to a manuscript titled "Mega-scale experimental analysis of protein folding stability in biology and protein design" 
-- URL: 
+- URL: https://doi.org/10.1101/2022.12.06.519132
 - You can find the following all tables required for the pipelines above here
 - URL: https://doi.org/10.5281/zenodo.7401275
 

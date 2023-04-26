@@ -7,12 +7,13 @@
 - URL: https://doi.org/10.5281/zenodo.7844779
 
 ## Environment and Installation
-We tested the following pipeline using Python 3.8 or 3.9 on Ubuntu Ubuntu 16.04.7 LTS and Red Hat Enterprise Linux Server 7.9 (Maipo). GPU is not essential to run the pipeline but highly recommended to accelerate the process.
+We tested the following pipeline using Python 3.8 or 3.9 on Ubuntu Ubuntu 16.04.7 LTS and Red Hat Enterprise Linux Server 7.9 (Maipo). GPU is not essential to run the pipeline but highly recommended to accelerate the process. It usually takes ~30min to install all the requirements using Conda.
+
 
 To install the requirements, you can use the env file:
+
 	conda env create -f env/SE3nv.yml
 	conda activate SE3nv
-It usually takes ~30min to install all the requirements using Conda.
 
 ## Scripts on github
 ### env (.yml file for requirement installation)

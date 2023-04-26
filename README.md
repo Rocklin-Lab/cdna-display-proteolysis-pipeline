@@ -12,8 +12,8 @@ We tested the following pipeline using Python 3.8 or 3.9 on Ubuntu Ubuntu 16.04.
 
 To install the requirements, you can use the env file:
 
-	conda env create -f env/SE3nv.yml
-	conda activate SE3nv
+	conda env create -f env/protease-pipeline.yml
+	conda activate protease-pipeline
 
 ## Scripts on github
 ### env (.yml file for requirement installation)
